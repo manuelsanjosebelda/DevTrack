@@ -120,4 +120,4 @@ function App() {
 }
 
 export default App;
-// DevTrack - Git and GitHub practice
+// DevTrack - Practicing Git, GitHub and DevOps
